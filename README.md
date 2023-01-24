@@ -14,7 +14,7 @@
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 
-<h2>🚀 Some Tools I That I Used</h2>
+<h2>🚀 Some Tools That I Used</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
