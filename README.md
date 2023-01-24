@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://shakay.com/devops/">Ahmad</a></h2>
+<h2>Hey 👋, I'm <a href="https://www.shakay.com/devops/">Ahmad</a></h2>
 <p>I'm a DevOps Engineer based in Pakistan. I am currently putting out fire from production, learning a couple of new tools, and trying to help organizations improve efficiency by automating and streamlining processes.</p>
 <p><a href="https://shakay.com/devops"><img src="https://img.shields.io/badge/-shakay.com/devops-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://shakay.com/devops" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/shakay/"><img src="https://img.shields.io/badge/-@shakay-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/shakay/" alt="LinkedIn Badge"></a></p>
 <p>🌊 Stay Hydrated 🌊</p>
@@ -10,7 +10,7 @@
 <li>👨‍💻 Most of my projects/scripts/templates are available on <a href="https://github.com/shakayhere">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>docker, kubernetes, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://shakay.com/devops">website</a>.</li>
+<li>📙 Check out my <a href="https://www.shakay.com/devops">website</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 
