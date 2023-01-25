@@ -5,13 +5,11 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">Cirrus</a>.</li>
+<li>🔭 I’m exploring new tools to create robust engineering modules.</li>
 <li>🧐 Learning about <strong>system design</strong>, <strong>modern age automation</strong>, and a bit of <strong>Web3</strong>.</li>
 <li>👨‍💻 Most of my projects/scripts/templates are available on <a href="https://github.com/shakayhere">Github</a>.</li>
-<li>📝 I <del>regulary</del> write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
 <li>💬 Ping me about <strong>docker, kubernetes, security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.shakay.com/devops">website</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
 </ul>
 
 <h2>🚀 Some Tools That I Used</h2>
