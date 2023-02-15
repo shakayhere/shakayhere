@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://www.shakay.com/devops/">Ahmad</a></h2>
 <p>I'm a DevOps Engineer based in Pakistan. I am currently putting out fire from production, learning a couple of new tools, and trying to help organizations improve efficiency by automating and streamlining processes.</p>
-<p><a href="https://shakay.com/devops"><img src="https://img.shields.io/badge/-shakay.com/devops-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://shakay.com/devops" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/shakay/"><img src="https://img.shields.io/badge/-@shakay-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/shakay/" alt="LinkedIn Badge"></a></p>
+<p><a href="https://www.shakay.com/devops"><img src="https://img.shields.io/badge/-shakay.com/devops-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://shakay.com/devops" alt="Website Badge"></a> <a href="https://www.linkedin.com/in/shakay/"><img src="https://img.shields.io/badge/-@shakay-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/shakay/" alt="LinkedIn Badge"></a></p>
 <p>🌊 Stay Hydrated 🌊</p>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
